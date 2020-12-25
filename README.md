@@ -9,16 +9,12 @@ npm install
 ```
 npm run serve
 ```
+### Dependencies used
+-> Bootstrap.css;
+-> VueToast
 
-### Compiles and minifies for production
-```
-npm run build
-```
+ScreenShots from App:
 
-### Lints and fixes files
-```
-npm run lint
-```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
